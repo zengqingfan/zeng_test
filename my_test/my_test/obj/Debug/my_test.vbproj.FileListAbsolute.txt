@@ -1,0 +1,3 @@
+F:\zeng_bak\zeng\Tool_VB_BAT\Tool_VB_BAT\vb\my_test\my_test\obj\Debug\my_test.exe
+F:\zeng_bak\zeng\Tool_VB_BAT\Tool_VB_BAT\vb\my_test\my_test\obj\Debug\my_test.xml
+F:\zeng_bak\zeng\Tool_VB_BAT\Tool_VB_BAT\vb\my_test\my_test\obj\Debug\my_test.pdb

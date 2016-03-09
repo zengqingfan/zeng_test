@@ -1,0 +1,11 @@
+obj\Debug\my_test.exe
+obj\Debug\my_test.xml
+obj\Debug\my_test.pdb
+bin\Debug\my_test.exe
+bin\Debug\my_test.pdb
+bin\Debug\my_test.xml
+bin\Debug\policy.4.0.2005.FarPoint.Win.Spread.config
+bin\Debug\policy.4.0.2005.FarPoint.Win.config
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\my_test.Resources.resources
+obj\Debug\my_test.vbproj.GenerateResource.Cache

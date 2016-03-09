@@ -1,0 +1,6 @@
+E:\work\my_test\my_test\obj\Debug\my_test.exe
+E:\work\my_test\my_test\obj\Debug\my_test.xml
+E:\work\my_test\my_test\obj\Debug\my_test.pdb
+D:\zeng\my_test\my_test\obj\Debug\my_test.exe
+D:\zeng\my_test\my_test\obj\Debug\my_test.xml
+D:\zeng\my_test\my_test\obj\Debug\my_test.pdb
